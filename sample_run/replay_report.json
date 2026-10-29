@@ -1,0 +1,24 @@
+{
+  "replay_start": "2026-09-30T18:30:00.000Z",
+  "trigger_count": 2679,
+  "action_count": 1089,
+  "holdout_actions": 0,
+  "decisions_with_actions": 1089,
+  "no_action_count": 1590,
+  "controls_applied": {
+    "withdrawn_titles": 1,
+    "corrected_goals": [
+      "G03"
+    ]
+  },
+  "outcome_limitations": [
+    {
+      "goal_id": "G10",
+      "reason": "configured success event is null; no success is claimed"
+    },
+    {
+      "goal_id": "G11",
+      "reason": "tv_app_open is not present in the source event schema; outcome remains unsupported"
+    }
+  ]
+}

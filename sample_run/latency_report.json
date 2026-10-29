@@ -1,0 +1,11 @@
+{
+  "decision_count": 2679,
+  "min_ms": 0.004,
+  "median_ms": 0.055,
+  "p95_ms": 0.601,
+  "max_ms": 1.08,
+  "under_60_seconds": 2679,
+  "over_60_seconds": 0,
+  "provider_mode": "deterministic_replay",
+  "note": "Local replay-processing latency; not production or external-LLM latency."
+}

@@ -1,0 +1,14 @@
+{
+  "decision_count": 2679,
+  "min_ms": 0.005,
+  "median_ms": 0.065,
+  "p95_ms": 0.652,
+  "max_ms": 1.323,
+  "under_60_seconds": 2679,
+  "over_60_seconds": 0,
+  "model_call_limit": 8,
+  "tool_call_limit": 20,
+  "max_model_calls_observed": 0,
+  "max_tool_calls_observed": 0,
+  "provider_mode": "deterministic_replay"
+}

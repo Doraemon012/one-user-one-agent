@@ -1,0 +1,57 @@
+{
+  "users_with_actions": 715,
+  "goals": {
+    "G01": {
+      "supported": true,
+      "successes": 4
+    },
+    "G02": {
+      "supported": true,
+      "successes": 49
+    },
+    "G03": {
+      "supported": true,
+      "successes": 0
+    },
+    "G04": {
+      "supported": true,
+      "successes": 0
+    },
+    "G05": {
+      "supported": true,
+      "successes": 14
+    },
+    "G06": {
+      "supported": true,
+      "successes": 9
+    },
+    "G07": {
+      "supported": true,
+      "successes": 105
+    },
+    "G08": {
+      "supported": true,
+      "successes": 161
+    },
+    "G09": {
+      "supported": true,
+      "successes": 0
+    },
+    "G10": {
+      "supported": false,
+      "successes": 0
+    },
+    "G11": {
+      "supported": false,
+      "successes": 0
+    },
+    "G12": {
+      "supported": true,
+      "successes": 0
+    }
+  },
+  "unsupported": [
+    "G10:null_success_event",
+    "G11:tv_app_open_underspecified"
+  ]
+}
